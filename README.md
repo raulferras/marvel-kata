@@ -1,4 +1,5 @@
 marvel-kata
 ===========
 
-Kata
+Solución a la kata:
+http://nikeyes.github.io/MarvelKata/#/step-6
