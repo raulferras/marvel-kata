@@ -1,0 +1,2446 @@
+{
+    "code": 200,
+    "status": "Ok",
+    "copyright": "Â© 2014 MARVEL",
+    "attributionText": "Data provided by Marvel. Â© 2014 MARVEL",
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. Â© 2014 MARVEL</a>",
+    "etag": "ed04b7bf8d847b5d58161d24c597dd97c56634a1",
+    "data": {
+        "offset": 0,
+        "limit": 20,
+        "total": 24,
+        "count": 20,
+        "results": [
+            {
+                "id": 48364,
+                "digitalId": 0,
+                "title": "All-New Invaders (2014) #11",
+                "issueNumber": 11,
+                "variantDescription": "",
+                "description": "CELEBRATING THE 75th ANNIVERSARY OF THE HUMAN TORCH AND SUB-MARINER WITH AN EPIC BATTLE!\nâ€¢ JIM HAMMOND, THE ORIGINAL HUMAN TORCH has been driven mad by the events of Issue #10. Now itâ€™s up to NAMOR to stop his rampage!\nâ€¢ Plus the return of RADIANCE and the ALL-NEW IRON CROSS!\nâ€¢ And in England, SPITFIRE and UNION JACK must face a different kind of INVADER...\n",
+                "modified": "2014-10-10T15:20:40-0400",
+                "isbn": "",
+                "upc": "75960607968101111",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "CELEBRATING THE 75th ANNIVERSARY OF THE HUMAN TORCH AND SUB-MARINER WITH AN EPIC BATTLE!\nâ€¢ JIM HAMMOND, THE ORIGINAL HUMAN TORCH has been driven mad by the events of Issue #10. Now itâ€™s up to NAMOR to stop his rampage!\nâ€¢ Plus the return of RADIANCE and the ALL-NEW IRON CROSS!\nâ€¢ And in England, SPITFIRE and UNION JACK must face a different kind of INVADER...\n"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/48364",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/48364/all-new_invaders_2014_11?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/All-New-Invaders-11/digital-comic/34890?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18315",
+                    "name": "All-New Invaders (2014 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-10-08T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/543830ee97be9",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/543830ee97be9",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48364/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11436",
+                            "name": "Michael Komarck",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4999",
+                            "name": "Steve Pugh",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1340",
+                            "name": "James Robinson",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48364/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48364/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/108887",
+                            "name": "cover from Invaders (2014) #11",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/108888",
+                            "name": "story from Invaders (2014) #11",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48364/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 50527,
+                "digitalId": 0,
+                "title": "Alias Omnibus (Hardcover)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": "Meet Jessica Jones. Once upon a time, she was a costumed super hero. But not a very good one. Now a chain-smoking, self-destructive alcoholic, Jessica is the owner and sole employee of Alias Investigations &mdash; a small, private-investigative firm specializing in superhuman cases. This deluxe hardcover collects all 28 issues of super-scribe Brian Michael Bendis&#39; ALIAS &mdash; plus all-new, behind-the-scenes bonus material compiled in conjunction with the writer himself! In her inaugural arc, Jessica&#39;s life immediately becomes expendable when she uncovers the potentially explosive secret of one hero&#39;s true identity. But her wit, charm and intelligence just may help her survive through another day. Thrust into the midst of a conspiracy that reaches the highest levels, has Jessica burned too many bridges to turn to old friends for help? Plus: Jessica travels to upstate New York to investigate the disappearance of a teenage girl rumored to be a mutant in a prejudiced small town; goes on a date with the Astonishing Ant-Man; teams up with Jessica Drew; the original Spider-Woman; and confronts the demons of her past! Collects ALIAS #1-28 and WHAT IF JESSICA JONES HAD JOINED THE AVENGERS?",
+                "modified": "2014-10-14T15:04:31-0400",
+                "isbn": "978-0-7851-9091-2",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "9780785 190912 59999",
+                "issn": "",
+                "format": "Hardcover",
+                "pageCount": 720,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "Meet Jessica Jones. Once upon a time, she was a costumed super hero. But not a very good one. Now a chain-smoking, self-destructive alcoholic, Jessica is the owner and sole employee of Alias Investigations &mdash; a small, private-investigative firm specializing in superhuman cases. This deluxe hardcover collects all 28 issues of super-scribe Brian Michael Bendis&#39; ALIAS &mdash; plus all-new, behind-the-scenes bonus material compiled in conjunction with the writer himself! In her inaugural arc, Jessica&#39;s life immediately becomes expendable when she uncovers the potentially explosive secret of one hero&#39;s true identity. But her wit, charm and intelligence just may help her survive through another day. Thrust into the midst of a conspiracy that reaches the highest levels, has Jessica burned too many bridges to turn to old friends for help? Plus: Jessica travels to upstate New York to investigate the disappearance of a teenage girl rumored to be a mutant in a prejudiced small town; goes on a date with the Astonishing Ant-Man; teams up with Jessica Drew; the original Spider-Woman; and confronts the demons of her past! Collects ALIAS #1-28 and WHAT IF JESSICA JONES HAD JOINED THE AVENGERS?"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/50527",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/50527/alias_omnibus_hardcover?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18885",
+                    "name": "Alias Omnibus (2014)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-07-07T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 99.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/543d726b466e0",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/543d726b466e0",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50527/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                            "name": "Brian Michael Bendis",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/177",
+                            "name": "Michael Gaydos",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/23",
+                            "name": "David Mack",
+                            "role": "penciller (cover)"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50527/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50527/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113058",
+                            "name": "cover from Alias Omnibus (2014)",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113059",
+                            "name": "story from Alias Omnibus (2014)",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50527/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 49899,
+                "digitalId": 0,
+                "title": "Iron Patriot: Unbreakable (Trade Paperback)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": "Jim Rhodes has quit the Secret Avengers! As the Iron Patriot, heâ€™s taking charge alone and bringing his fight against the bad guys to the home front. But when someone else takes control of the Iron Patriot suit, a new villain emerges with a brutal plan that could turn Rhodey into Americaâ€™s most wanted! Who is controlling the suit? Will Iron Patriot be forced to execute the horrible deed his puppet-masters have planned â€” or will Jim Rhodes die? Or both?! As the conspiracy to destroy America from within grows, Rhodeyâ€™s family dances on the edge. Can Lila turn the tide? Will she survive long enough to? Losses on both sides multiply as the country spirals toward a new future â€” and nothing will ever be the same! Collecting IRON PATRIOT #1-5.",
+                "modified": "2014-10-13T16:14:20-0400",
+                "isbn": "978-0-7851-9028-8",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "9780785 190288 51699",
+                "issn": "",
+                "format": "Trade Paperback",
+                "pageCount": 120,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "Jim Rhodes has quit the Secret Avengers! As the Iron Patriot, heâ€™s taking charge alone and bringing his fight against the bad guys to the home front. But when someone else takes control of the Iron Patriot suit, a new villain emerges with a brutal plan that could turn Rhodey into Americaâ€™s most wanted! Who is controlling the suit? Will Iron Patriot be forced to execute the horrible deed his puppet-masters have planned â€” or will Jim Rhodes die? Or both?! As the conspiracy to destroy America from within grows, Rhodeyâ€™s family dances on the edge. Can Lila turn the tide? Will she survive long enough to? Losses on both sides multiply as the country spirals toward a new future â€” and nothing will ever be the same! Collecting IRON PATRIOT #1-5."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/49899",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/49899/iron_patriot_unbreakable_trade_paperback?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18751",
+                    "name": "Iron Patriot: Unbreakable (2014)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-09-01T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 16.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/543c300bc9841",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/543c300bc9841",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49899/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12422",
+                            "name": "Garry Brown",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12394",
+                            "name": "Ales Kot",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49899/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49899/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/111858",
+                            "name": "cover from Iron Patriot (2014)",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/111859",
+                            "name": "story from Iron Patriot (2014)",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49899/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 50301,
+                "digitalId": 0,
+                "title": "Secret Avengers (2014) #9",
+                "issueNumber": 9,
+                "variantDescription": "",
+                "description": "â€¢ TLÃ–N? TLÃ–N! How many more secrets are going to be uncovered? In this issue? Like, right now? MANY!\nâ€¢ Hawkeye and Deadpool work together to stop a deranged mullet-wearing ex-wrestler! But Deadpool has a SECRET!\nâ€¢ Maria Hill figures things out! DOOMED ESCAPE ATTEMPT! DESPERATE SCIENTIST! LAST HOPE! Erhmagerd, is BLACK WIDOW alive?\n",
+                "modified": "2014-10-13T13:51:37-0400",
+                "isbn": "",
+                "upc": "75960608052600911",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "â€¢ TLÃ–N? TLÃ–N! How many more secrets are going to be uncovered? In this issue? Like, right now? MANY!\nâ€¢ Hawkeye and Deadpool work together to stop a deranged mullet-wearing ex-wrestler! But Deadpool has a SECRET!\nâ€¢ Maria Hill figures things out! DOOMED ESCAPE ATTEMPT! DESPERATE SCIENTIST! LAST HOPE! Erhmagerd, is BLACK WIDOW alive?\n"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/50301",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/50301/secret_avengers_2014_9?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Secret-Avengers-9/digital-comic/34913?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18818",
+                    "name": "Secret Avengers (2014 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-09-29T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/543c0e73694b4",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/543c0e73694b4",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/5422d0a4088b4",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/54187c0eb8fae",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50301/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12394",
+                            "name": "Ales Kot",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11930",
+                            "name": "Tradd Thomas Moore",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12393",
+                            "name": "Michael Walsh",
+                            "role": "artist"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50301/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50301/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/112635",
+                            "name": "cover from Secret Avengers (2014) #9",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/112636",
+                            "name": "story from Secret Avengers (2014) #9",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50301/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 48228,
+                "digitalId": 0,
+                "title": "Silver Surfer Vol. 1: New Dawn (Trade Paperback)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": "The universe is big. Bigger than you could ever imagine. And the Silver Surfer, lone sentinel of the skyways, is about to discover that the best way to see itâ€¦is with someone else. Meet Dawn Greenwood, the Earth girl whoâ€™s challenged the Surfer to go beyond the boundaries of the known universe â€” into the strange, the new and the utterly fantastic! Who is the Never Queen? How is the universeâ€™s future tied into her very existence? And why is she trying to destroy the Surfer? And when the Surfer tries to return Dawn home, he gets swept into a strange battle against Shuma-Gorath alongside Dr. Strange, the Hulk and more! The problem is, to stop Shuma-Gorath, Dawn will have to pay the price â€” with her life. Collecting SILVER SURFER (2014) #1-5 and material from ALL-NEW MARVEL NOW! POINT ONE #1.",
+                "modified": "2014-10-14T14:52:41-0400",
+                "isbn": "978-0-7851-8878-0",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "9780785 188780 51799",
+                "issn": "",
+                "format": "Trade Paperback",
+                "pageCount": 144,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "The universe is big. Bigger than you could ever imagine. And the Silver Surfer, lone sentinel of the skyways, is about to discover that the best way to see itâ€¦is with someone else. Meet Dawn Greenwood, the Earth girl whoâ€™s challenged the Surfer to go beyond the boundaries of the known universe â€” into the strange, the new and the utterly fantastic! Who is the Never Queen? How is the universeâ€™s future tied into her very existence? And why is she trying to destroy the Surfer? And when the Surfer tries to return Dawn home, he gets swept into a strange battle against Shuma-Gorath alongside Dr. Strange, the Hulk and more! The problem is, to stop Shuma-Gorath, Dawn will have to pay the price â€” with her life. Collecting SILVER SURFER (2014) #1-5 and material from ALL-NEW MARVEL NOW! POINT ONE #1."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/48228",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/48228/silver_surfer_vol_1_new_dawn_trade_paperback?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18261",
+                    "name": "Silver Surfer Vol. 1: New Dawn (2014)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-09-01T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 17.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/543d6f90dc4f2",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/543d6f90dc4f2",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48228/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12396",
+                            "name": "Michael Allred",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+                            "name": "Dan Slott",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48228/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48228/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/108659",
+                            "name": "cover from Silver Surfer (2014)",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/108660",
+                            "name": "story from Silver Surfer (2014)",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48228/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 50442,
+                "digitalId": 0,
+                "title": "Original Sin (Hardcover)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": "Who killed the Watcher? Uatu, the mysterious space-god who observes mankind from the moon, is dead. Thus begins the greatest murder mystery in Marvel history! As Nick Fury leads a cosmic manhunt to the far corners of the universe, other forces marshal and other questions arise. Who is the Unseen? What was stolen from the Watcherâ€™s lair? Just when the Avengers think theyâ€™ve cornered their murderer, everything explodes â€” unleashing the Marvel Universeâ€™s greatest secrets and rocking the heroes to their core! What did the Watcher see? As all the truths come tumbling into the light, discover the Original Sins of dozens of major characters, from the Inhumans to Dr. Doom to J. Jonah Jameson! Collecting ORIGINAL SIN #0-8, ORIGINAL SINS #1-5 and material from POINT ONE #1.",
+                "modified": "2014-10-13T15:50:10-0400",
+                "isbn": "978-0-7851-9069-1",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "9780785 190691 54999",
+                "issn": "",
+                "format": "Hardcover",
+                "pageCount": 208,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "Who killed the Watcher? Uatu, the mysterious space-god who observes mankind from the moon, is dead. Thus begins the greatest murder mystery in Marvel history! As Nick Fury leads a cosmic manhunt to the far corners of the universe, other forces marshal and other questions arise. Who is the Unseen? What was stolen from the Watcherâ€™s lair? Just when the Avengers think theyâ€™ve cornered their murderer, everything explodes â€” unleashing the Marvel Universeâ€™s greatest secrets and rocking the heroes to their core! What did the Watcher see? As all the truths come tumbling into the light, discover the Original Sins of dozens of major characters, from the Inhumans to Dr. Doom to J. Jonah Jameson! Collecting ORIGINAL SIN #0-8, ORIGINAL SINS #1-5 and material from POINT ONE #1."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/50442",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/50442/original_sin_hardcover?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18859",
+                    "name": "Original Sin (2014)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-09-01T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 49.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/543c253722c83",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/543c253722c83",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 10,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50442/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+                            "name": "Jason Aaron",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+                            "name": "Al Ewing",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1340",
+                            "name": "James Robinson",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+                            "name": "Dan Slott",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+                            "name": "Charles Soule",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+                            "name": "Mark Waid",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                            "name": "Mark Bagley",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+                            "name": "Jim Cheung",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+                            "name": "Mike Deodato",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11488",
+                            "name": "Julian Totino Tedesco",
+                            "role": "penciller (cover)"
+                        }
+                    ],
+                    "returned": 10
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50442/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50442/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/112910",
+                            "name": "cover from Original Sin (2014)",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/112911",
+                            "name": "story from Original Sin (2014)",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50442/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 49537,
+                "digitalId": 0,
+                "title": "New Warriors (2014) #11",
+                "issueNumber": 11,
+                "variantDescription": "",
+                "description": "JUDGEMENT HAS COME FOR HUMANITY â€“AND THE NEW WARRIORS!\n",
+                "modified": "2014-10-13T13:31:55-0400",
+                "isbn": "",
+                "upc": "75960608029801111",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "JUDGEMENT HAS COME FOR HUMANITY â€“AND THE NEW WARRIORS!\n"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/49537",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/49537/new_warriors_2014_11?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/new-series-11/digital-comic/34985?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18670",
+                    "name": "New Warriors (2014 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-09-29T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/543c0af49f0bf",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/543c0af49f0bf",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49537/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/495",
+                            "name": "Takeshi Miyazawa",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9038",
+                            "name": "Marcus To",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11539",
+                            "name": "Christopher Yost",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49537/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49537/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/111152",
+                            "name": "cover from new series (2014) #11",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/111153",
+                            "name": "story from new series (2014) #11",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49537/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 49528,
+                "digitalId": 0,
+                "title": "All-New Ghost Rider (2014) #8",
+                "issueNumber": 8,
+                "variantDescription": "",
+                "description": "â€¢ Age vs. Youth, East vs. West, Car vs. Motorcycle!\nâ€¢ Can All-New Ghost Rider stand up to the Spirit of Vengeance or will Robbie lose his soul in the battle?!\nâ€¢ Guest starring the ORIGINAL Ghost Rider, JOHNNY BLAZE!!!\n",
+                "modified": "2014-10-10T15:14:32-0400",
+                "isbn": "",
+                "upc": "75960608031100811",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "â€¢ Age vs. Youth, East vs. West, Car vs. Motorcycle!\nâ€¢ Can All-New Ghost Rider stand up to the Spirit of Vengeance or will Robbie lose his soul in the battle?!\nâ€¢ Guest starring the ORIGINAL Ghost Rider, JOHNNY BLAZE!!!\n"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/49528",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/49528/all-new_ghost_rider_2014_8?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/new-series-8/digital-comic/34963?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18661",
+                    "name": "All-New Ghost Rider (2014 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-09-29T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/54382de767dac",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/54382de767dac",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5422dc77cc10e",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49528/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/607",
+                            "name": "Damion Scott",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12411",
+                            "name": "Felipe Smith",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49528/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49528/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/111134",
+                            "name": "cover from new series (2014) #8",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/111135",
+                            "name": "story from new series (2014) #8",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49528/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 49930,
+                "digitalId": 0,
+                "title": "X-Force (2014) #11",
+                "issueNumber": 11,
+                "variantDescription": "",
+                "description": "â€¢ X-Force has their sights set on their next target, a mutant who may just hold the key to defeating their greatest adversary: X-MEN: LEGACY #300â€™s ForgetMeNot!\nâ€¢ But how can they convince him to join their cause?\nâ€¢ And more importantly: How can they hope to find a mutant who slips out of memory whenever he leaves their sight?\n",
+                "modified": "2014-10-13T14:51:10-0400",
+                "isbn": "",
+                "upc": "759606080411001111",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "â€¢ X-Force has their sights set on their next target, a mutant who may just hold the key to defeating their greatest adversary: X-MEN: LEGACY #300â€™s ForgetMeNot!\nâ€¢ But how can they convince him to join their cause?\nâ€¢ And more importantly: How can they hope to find a mutant who slips out of memory whenever he leaves their sight?\n"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/49930",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/49930/x-force_2014_11?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/X-Force-11/digital-comic/34896?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18762",
+                    "name": "X-Force (2014 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-09-29T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/543c1d29e795b",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/543c1d29e795b",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49930/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5636",
+                            "name": "Tan Eng Huat",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12395",
+                            "name": "Rock-He Kim",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5635",
+                            "name": "Simon Spurrier",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49930/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49930/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/111920",
+                            "name": "cover from X-Force (2014) #11",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/111921",
+                            "name": "story from X-Force (2014) #11",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49930/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 50976,
+                "digitalId": 0,
+                "title": "Axis: Hobgoblin (2014) #1",
+                "issueNumber": 1,
+                "variantDescription": "",
+                "description": "AXIS TIE-IN!\nâ€¢ Roderick Kingsley, the one and only Original Hobgoblin is back in the suit (for real this time! We swear!) and back in New York with a brand new mission.\nâ€¢ Robot Chicken writer Kevin Shinick (Superior Carnage, Superior Spider-Man Team Up) and fan favorite artist Javier Rodriguez (Daredevil) team up to bring you a Hobgoblin book unlike any youâ€™ve ever seen!\n",
+                "modified": "2014-10-10T16:07:00-0400",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "AXIS TIE-IN!\nâ€¢ Roderick Kingsley, the one and only Original Hobgoblin is back in the suit (for real this time! We swear!) and back in New York with a brand new mission.\nâ€¢ Robot Chicken writer Kevin Shinick (Superior Carnage, Superior Spider-Man Team Up) and fan favorite artist Javier Rodriguez (Daredevil) team up to bring you a Hobgoblin book unlike any youâ€™ve ever seen!\n"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/50976",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/50976/axis_hobgoblin_2014_1?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Axis-Hobgoblin-1/digital-comic/34982?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/19084",
+                    "name": "Axis: Hobgoblin (2014 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/54383b710e790",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/54383b710e790",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5422cd953a7f7",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50976/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1117",
+                            "name": "Javier Rodriguez",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12377",
+                            "name": "Kevin Shinick",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50976/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50976/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113846",
+                            "name": "Axis: Hobgoblin (2014) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113847",
+                            "name": "Axis: Hobgoblin (2014) #1",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50976/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 48391,
+                "digitalId": 0,
+                "title": "Avengers (2012) #37",
+                "issueNumber": 37,
+                "variantDescription": "",
+                "description": "IN 7 MONTHSÃ¢â‚¬Â¦TIME RUNS OUT!",
+                "modified": "2014-10-10T16:00:30-0400",
+                "isbn": "",
+                "upc": "75960607902503711",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "IN 7 MONTHSâ€¦TIME RUNS OUT!"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/48391",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/48391/avengers_2012_37?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Avengers-37/digital-comic/34894?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/16452",
+                    "name": "Avengers (2012 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-09-29T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/54383a52ce8a5",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/54383a52ce8a5",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/5416fc19a0420",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48391/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1133",
+                            "name": "Stefano Caselli",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+                            "name": "Jonathan Hickman",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8671",
+                            "name": "Jamie McKelvie",
+                            "role": "penciller (cover)"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48391/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48391/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/108925",
+                            "name": "cover from Avengers (2012) #37",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/108926",
+                            "name": "story from Avengers (2012) #37",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48391/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 50315,
+                "digitalId": 0,
+                "title": "Amazing Spider-Man (2014) #8 (OTTLEY VARIANT)",
+                "issueNumber": 8,
+                "variantDescription": "OTTLEY VARIANT",
+                "description": null,
+                "modified": "2014-10-10T15:40:58-0400",
+                "isbn": "",
+                "upc": "75960607901800821",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/50315",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/50315/amazing_spider-man_2014_8_ottley_variant/ottley_variant?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/17285",
+                    "name": "Amazing Spider-Man (2014 - Present)"
+                },
+                "variants": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/45807",
+                        "name": "Amazing Spider-Man (2014) #8"
+                    }
+                ],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-09-29T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/e0/54383466828a3",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/e0/54383466828a3",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50315/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+                            "name": "Giuseppe Camuncoli",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+                            "name": "Dan Slott",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50315/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50315/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/112663",
+                            "name": "cover from The Amazing Spider-Man (2014) #8 (TBD ARTIST SPIDER-VERSE VARIANT)",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/112664",
+                            "name": "story from The Amazing Spider-Man (2014) #8 (TBD ARTIST SPIDER-VERSE VARIANT)",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50315/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 50902,
+                "digitalId": 0,
+                "title": "THANOS: A GOD UP THERE LISTENING  (0000) #3",
+                "issueNumber": 3,
+                "variantDescription": "",
+                "description": "â€¢ At the close of INFINITY, Thane discovered he was the son of Thanos and that his touch was death. â€¢ Now, accompanied by the constantly whispered advice of the Ebony Maw, he wants to discover his fatherâ€™s history, and his own future.",
+                "modified": "2014-10-13T14:31:16-0400",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 0,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "â€¢ At the close of INFINITY, Thane discovered he was the son of Thanos and that his touch was death. â€¢ Now, accompanied by the constantly whispered advice of the Ebony Maw, he wants to discover his fatherâ€™s history, and his own future."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/50902",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/50902/thanos_a_god_up_there_listening_0000_3?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/THANOS-TBD-INFINITE-COMIC-3/digital-comic/34289?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/19049",
+                    "name": "THANOS: A GOD UP THERE LISTENING  (0000 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-09-29T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/543c141db27ea",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/543c141db27ea",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50902/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10445",
+                            "name": "IBAN COELLO",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4150",
+                            "name": "Paco Diaz",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10115",
+                            "name": "Neil Edwards",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/646",
+                            "name": "Rob Williams",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50902/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50902/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113940",
+                            "name": "THANOS: A GOD UP THERE LISTENING 3",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113941",
+                            "name": "THANOS: A GOD UP THERE LISTENING 3",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50902/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 49123,
+                "digitalId": 0,
+                "title": "She-Hulk (2014) #9",
+                "issueNumber": 9,
+                "variantDescription": "",
+                "description": "THE GOOD OLD DAYS, PART 2\nâ€¢ Itâ€™s Jennifer Walters versus Matt Murdock in the trial of the century!\nâ€¢ Someone from Capâ€™s past has come back to haunt them all...and She-Hulk might be his only hope.\nâ€¢ Guest starring Steve Rogers and Daredevil\n",
+                "modified": "2014-10-13T13:56:36-0400",
+                "isbn": "",
+                "upc": "75960607996400911",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "THE GOOD OLD DAYS, PART 2\nâ€¢ Itâ€™s Jennifer Walters versus Matt Murdock in the trial of the century!\nâ€¢ Someone from Capâ€™s past has come back to haunt them all...and She-Hulk might be his only hope.\nâ€¢ Guest starring Steve Rogers and Daredevil\n"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/49123",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/49123/she-hulk_2014_9?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18472",
+                    "name": "She-Hulk (2014 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-09-29T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 2.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/543c11bba8cec",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/543c11bba8cec",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/5422d1269767f",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/541739eb5892a",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49123/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2985",
+                            "name": "Javier Pulido",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+                            "name": "Charles Soule",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49123/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49123/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/110333",
+                            "name": "cover from She-Hulk (2014) #9",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/110334",
+                            "name": "story from She-Hulk (2014) #9",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49123/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 48030,
+                "digitalId": 0,
+                "title": "Amazing X-Men (2013) #12",
+                "issueNumber": 12,
+                "variantDescription": "",
+                "description": "â€¢ This is it! The conclusion to WORLD WAR WENDIGO!\nâ€¢ Will the combined forces of the X-Men and Alpha Flight be enough to save an entire nation from this deadly, cannibalistic plague?\nâ€¢ And how do the GREAT BEASTS fit into the mayhem that surrounds Canada?\n",
+                "modified": "2014-10-10T15:49:46-0400",
+                "isbn": "",
+                "upc": "75960607957501211",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "â€¢ This is it! The conclusion to WORLD WAR WENDIGO!\nâ€¢ Will the combined forces of the X-Men and Alpha Flight be enough to save an entire nation from this deadly, cannibalistic plague?\nâ€¢ And how do the GREAT BEASTS fit into the mayhem that surrounds Canada?\n"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/48030",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/48030/amazing_x-men_2013_12?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Amazing-X-Men-12/digital-comic/34897?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18142",
+                    "name": "Amazing X-Men (2013 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-09-29T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/543836d1f260a",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/543836d1f260a",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5416f6ce47af8",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48030/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/412",
+                            "name": "Carlo Barberi",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/801",
+                            "name": "Craig Kyle",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/803",
+                            "name": "Chris Yost",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48030/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48030/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/108301",
+                            "name": "cover from New X-Men (2013) #12",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/108302",
+                            "name": "story from New X-Men (2013) #12",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48030/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 50457,
+                "digitalId": 0,
+                "title": "Cyclops (2014) #6",
+                "issueNumber": 6,
+                "variantDescription": "",
+                "description": "â€¢ Get ready as new series artist Javier Garron makes his Marvel debut!\nâ€¢ RESCUED! But by who? And is it really a rescueâ€¦or does this put Scott at greater risk than before? And what bounty are they hunting?\nâ€¢ Lots of shooting and things blowing up!\n",
+                "modified": "2014-10-14T10:48:55-0400",
+                "isbn": "",
+                "upc": "75960608059500611",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "â€¢ Get ready as new series artist Javier Garron makes his Marvel debut!\nâ€¢ RESCUED! But by who? And is it really a rescueâ€¦or does this put Scott at greater risk than before? And what bounty are they hunting?\nâ€¢ Lots of shooting and things blowing up!\n"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/50457",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/50457/cyclops_2014_6?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Starjammers-6/digital-comic/34981?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18864",
+                    "name": "Cyclops (2014 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-09-29T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/54383cd8c09ec",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/54383cd8c09ec",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/54173b6c45855",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50457/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12426",
+                            "name": "Javier Garron",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12373",
+                            "name": "Alexander Lozano",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/28",
+                            "name": "Greg Rucka",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50457/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50457/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/112940",
+                            "name": "cover from Starjammers (2014) #6",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/112941",
+                            "name": "story from Starjammers (2014) #6",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50457/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 49180,
+                "digitalId": 0,
+                "title": "Marvel 100th Anniversary (Trade Paperback)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": "A remarkable artifact from the future of Marvel Comics! What happens when Marvelâ€™s favorite heroes hit the centennial mark? Itâ€™s 2061, and the world of the Fantastic Four has been turned upside-down, complete with the granddaughter of Doom and the Richards-Banner twins! Itâ€™s 100 years after Spider-Manâ€™s creation, and the Kingpin has stolen Spideyâ€™s ultra-powerful techno-symbiote suit! Have the X-Men of 2061 achieved Xavierâ€™s dream of mutants and humans living in harmony? How will the Avengers of 2061 cope following the failed Badoon invasion of Earth and Americaâ€™s disappearance into the Negative Zone? And just in time for the release of their seventh epic motion picture, the Guardians of the Galaxy take on the Silver Galactus! Collecting 100TH ANNIVERSARY SPECIAL: FANTASTIC FOUR, SPIDER-MAN, X-MEN, AVENGERS and GUARDIANS OF THE GALAXY.",
+                "modified": "2014-10-13T16:32:11-0400",
+                "isbn": "978-0-7851-5413-6",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "9780785 154136 51699",
+                "issn": "",
+                "format": "Trade Paperback",
+                "pageCount": 112,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "A remarkable artifact from the future of Marvel Comics! What happens when Marvelâ€™s favorite heroes hit the centennial mark? Itâ€™s 2061, and the world of the Fantastic Four has been turned upside-down, complete with the granddaughter of Doom and the Richards-Banner twins! Itâ€™s 100 years after Spider-Manâ€™s creation, and the Kingpin has stolen Spideyâ€™s ultra-powerful techno-symbiote suit! Have the X-Men of 2061 achieved Xavierâ€™s dream of mutants and humans living in harmony? How will the Avengers of 2061 cope following the failed Badoon invasion of Earth and Americaâ€™s disappearance into the Negative Zone? And just in time for the release of their seventh epic motion picture, the Guardians of the Galaxy take on the Silver Galactus! Collecting 100TH ANNIVERSARY SPECIAL: FANTASTIC FOUR, SPIDER-MAN, X-MEN, AVENGERS and GUARDIANS OF THE GALAXY."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/49180",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/49180/marvel_100th_anniversary_trade_paperback?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18491",
+                    "name": "Marvel 100th Anniversary (2015 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-09-01T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 16.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/543c345a1b3c8",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/543c345a1b3c8",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49180/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/485",
+                            "name": "Andy Lanning",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12343",
+                            "name": "Jennifer Van Meter",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9432",
+                            "name": "Sean Ryan",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12328",
+                            "name": "In-Hyuk Lee",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12392",
+                            "name": "David Lopez",
+                            "role": "penciller (cover)"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49180/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49180/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/110445",
+                            "name": "cover from 100th Anniversary Special (2015)",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/110446",
+                            "name": "story from 100th Anniversary Special (2015)",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49180/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 50602,
+                "digitalId": 0,
+                "title": "Avengers & X-Men: Axis (2014) #3",
+                "issueNumber": 3,
+                "variantDescription": "",
+                "description": "ACT I: THE RED SUPREMACY\nâ€¢ With the heroes lost, the worldâ€™s fate lies in the hands of the vilest syndicate known to man.\nâ€¢ Scarlet Witch is forced to join Dr. Doom, the man who unleashed her power to cause M-Day, or she will watch those she loves most die.\nâ€¢ The return of one of the Marvel Universeâ€™s great villains!\nâ€¢ An Avenger quits, a heart is broken, and the world as we know it is gone.\n",
+                "modified": "2014-10-10T15:56:24-0400",
+                "isbn": "",
+                "upc": "75960608074800311",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "ACT I: THE RED SUPREMACY\nâ€¢ With the heroes lost, the worldâ€™s fate lies in the hands of the vilest syndicate known to man.\nâ€¢ Scarlet Witch is forced to join Dr. Doom, the man who unleashed her power to cause M-Day, or she will watch those she loves most die.\nâ€¢ The return of one of the Marvel Universeâ€™s great villains!\nâ€¢ An Avenger quits, a heart is broken, and the world as we know it is gone.\n"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/50602",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/50602/avengers_x-men_axis_2014_3?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Days-of-Future-Now-3/digital-comic/34979?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18907",
+                    "name": "Avengers & X-Men: Axis (2014 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-10-08T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/e0/5438395571650",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/e0/5438395571650",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/5425c2875b408",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5425c2327be8f",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5425c1e68c3a8",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/5425c166113e8",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/5425c149818e7",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/5425c12015340",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5422d0058c93c",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50602/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+                            "name": "Jim Cheung",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11835",
+                            "name": "Rick Remender",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+                            "name": "Leinil Francis Yu",
+                            "role": "artist"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50602/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50602/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113287",
+                            "name": "cover from Days of Future Now (2014) #3",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113288",
+                            "name": "story from Days of Future Now (2014) #3",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50602/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 47976,
+                "digitalId": 0,
+                "title": "All-New X-Factor (2014) #15",
+                "issueNumber": 15,
+                "variantDescription": "",
+                "description": "AXIS TIE-IN!\nâ€¢ Washington is burning!\nâ€¢ Will Serval Enterprisesâ€™ X-Factor put out the fire?\nâ€¢ Or will they watch it burn?\n",
+                "modified": "2014-10-10T15:25:10-0400",
+                "isbn": "",
+                "upc": "75960607955101511",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 32,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "AXIS TIE-IN!\nâ€¢ Washington is burning!\nâ€¢ Will Serval Enterprisesâ€™ X-Factor put out the fire?\nâ€¢ Or will they watch it burn?\n"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/47976",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/47976/all-new_x-factor_2014_15?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/All-New-X-Factor-15/digital-comic/34892?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18136",
+                    "name": "All-New X-Factor (2014 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "2014-09-29T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 3.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/543831dd22900",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/543831dd22900",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/5416f9931110f",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/47976/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11575",
+                            "name": "Kristafer Anka",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8678",
+                            "name": "Jared Fletcher",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+                            "name": "Peter David",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/827",
+                            "name": "Carmine Di Giandomenico",
+                            "role": "artist"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/47976/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/47976/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/108193",
+                            "name": "cover from All-New X-Factor (2013) #15",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/108194",
+                            "name": "story from All-New X-Factor (2013) #15",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/47976/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 51021,
+                "digitalId": 0,
+                "title": "Original Sin: Hulk vs Iron Man (Trade Paperback)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": "In the wake of the Watcherâ€™s murder, the Marvel Universeâ€™s greatest secrets are being revealed! And thereâ€™s one secret so big, so green, so earth-shattering that it will shake a seminal Avengersâ€™ relationship to its core. As everyone knows, Bruce Banner was transformed into the Hulk after he was caught in the explosion of an experimental gamma bomb. But could billionaire weapons manufacturer Tony Stark have been responsible for the accident all along? A startling new development threatens the love/hate relationship youâ€™ve been following on screen and in comics as Mark Waid and Kieron Gillenâ€™s blockbuster writing runs on HULK and IRON MAN come to their colossal conclusions! Collecting ORIGINAL SIN #3.1-3.4.",
+                "modified": "2014-10-14T11:01:04-0400",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Trade Paperback",
+                "pageCount": 112,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "In the wake of the Watcherâ€™s murder, the Marvel Universeâ€™s greatest secrets are being revealed! And thereâ€™s one secret so big, so green, so earth-shattering that it will shake a seminal Avengersâ€™ relationship to its core. As everyone knows, Bruce Banner was transformed into the Hulk after he was caught in the explosion of an experimental gamma bomb. But could billionaire weapons manufacturer Tony Stark have been responsible for the accident all along? A startling new development threatens the love/hate relationship youâ€™ve been following on screen and in comics as Mark Waid and Kieron Gillenâ€™s blockbuster writing runs on HULK and IRON MAN come to their colossal conclusions! Collecting ORIGINAL SIN #3.1-3.4."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/51021",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/51021/original_sin_hulk_vs_iron_man_trade_paperback?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/19105",
+                    "name": "Original Sin: Hulk vs Iron Man (0000 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "2014-10-22T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 16.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/543d398393a53",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/543d398393a53",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51021/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                            "name": "Mark Bagley",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2338",
+                            "name": "Luke Ross",
+                            "role": "artist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+                            "name": "Kieron Gillen",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+                            "name": "Mark Waid",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5752",
+                            "name": "J. G. Jones",
+                            "role": "penciller (cover)"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51021/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51021/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113942",
+                            "name": "ORIGINAL SIN: HULK VS. IRON MAN TPB",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113943",
+                            "name": "ORIGINAL SIN: HULK VS. IRON MAN TPB",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51021/events",
+                    "items": [],
+                    "returned": 0
+                }
+            }
+        ]
+    }
+}
