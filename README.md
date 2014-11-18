@@ -1,5 +1,5 @@
 marvel-kata
 ===========
 
-Solución a la kata:
-http://nikeyes.github.io/MarvelKata/#/step-6
+Una primera aproximación a la marvel-kata, mediante TDD
+http://nikeyes.github.io/MarvelKata/#/portada
