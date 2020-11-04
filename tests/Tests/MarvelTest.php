@@ -4,12 +4,12 @@ namespace Tests;
 
 use Marvel\Comic;
 use Marvel\MarvelMachine;
+use PHPUnit\Framework\TestCase;
 
-class MarvelTest extends \PHPUnit_Framework_TestCase
+class MarvelTest extends TestCase
 {
     function test_I_get_something_as_response()
     {
-        /** @var Marvel $marvel */
         $marvel = new MarvelMachine();
         $nextWeekReleases = $marvel->getNextWeekComics();
 
@@ -18,7 +18,6 @@ class MarvelTest extends \PHPUnit_Framework_TestCase
 
     function test_next_weeeks_first_commic_title_is_correct()
     {
-        /** @var Marvel $marvel */
         $marvel = new MarvelMachine();
         $comics = $marvel->getNextWeekComics();
         $firstComic = $comics[0];
@@ -27,7 +26,6 @@ class MarvelTest extends \PHPUnit_Framework_TestCase
 
     function test_next_weeeks_first_commic_thumbnailUrl_is_correct()
     {
-        /** @var Marvel $marvel */
         $marvel = new MarvelMachine();
         $comics = $marvel->getNextWeekComics();
         /** @var Comic */
@@ -37,7 +35,6 @@ class MarvelTest extends \PHPUnit_Framework_TestCase
 
     function test_next_weeeks_first_commic_price_is_correct()
     {
-        /** @var Marvel $marvel */
         $marvel = new MarvelMachine();
         $comics = $marvel->getNextWeekComics();
         /** @var Comic $firstComic*/
