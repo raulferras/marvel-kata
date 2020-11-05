@@ -3,10 +3,11 @@
     "description": "marvel kata",
     "keywords": ["marvel-kata", "php"],
     "require": {
-        "php": ">=7.4"
+        "php": ">=7.4",
+        "ext-curl": "*",
+        "guzzlehttp/guzzle": "^7.2"
     },
     "require-dev": {
-        "guzzlehttp/guzzle": "~5.0",
         "phpunit/phpunit": "^8.0"
     },
     "autoload": {

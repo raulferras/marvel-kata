@@ -11,6 +11,7 @@ use Demyan112rv\MountebankPHP\Response;
 use Demyan112rv\MountebankPHP\Response\Behavior;
 use Demyan112rv\MountebankPHP\Stub;
 use GuzzleHttp\Client;
+use GuzzleHttp\RequestOptions;
 use PHPUnit\Framework\TestCase;
 use function json_decode;
 
@@ -25,12 +26,12 @@ class MountebankTest extends TestCase
     {
         $script = '/app/tests/create.imposter.sh';
         shell_exec($script);
-        /*
-        $this->client = new Client([
-            'defaults' => ['verify' => false],
-            'base_uri' => 'http://localhost:2525',  // <-- base_uri instead of base_url
-        ]);
 
+        $this->client = new Client([
+//            'defaults' => ['verify' => false],
+            'base_uri' => 'http://mountebank:2525',  // <-- base_uri instead of base_url
+        ]);
+/*
         $body = json_decode('
 {
     "port": "3016",
@@ -125,6 +126,22 @@ class MountebankTest extends TestCase
         }
 
         echo "OUTPUT:".$output;
+        echo json_encode($this->shouldHaveBeenCalled(80));
         curl_close($ch);
+    }
+
+    protected function shouldHaveBeenCalled($port)
+    {
+        $response = $this->client->request('GET', '/imposters/'.$port, [
+            RequestOptions::HEADERS => [
+                'Content-Type' => 'application/json',
+                'Accept' => 'application/json'
+            ],
+        ]);
+
+        $output = $response->getBody()->getContents();
+        var_dump($output);
+
+        return $output;
     }
 }

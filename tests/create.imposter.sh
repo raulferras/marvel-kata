@@ -6,6 +6,7 @@ curl --location --request POST 'http://mountebank:2525/imposters' \
     "port": "80",
     "hostname": "gateway.marvel.com",
     "protocol": "http",
+    "recordRequests": "true",
     "name": "origin",
     "defaultResponse": {
         "statusCode": 404,
