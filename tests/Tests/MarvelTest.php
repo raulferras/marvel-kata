@@ -3,14 +3,14 @@
 namespace Tests;
 
 use Marvel\Comic;
-use Marvel\MarvelMachine;
+use Marvel\HttpComicsRepository;
 use PHPUnit\Framework\TestCase;
 
 class MarvelTest extends TestCase
 {
     function test_I_get_something_as_response()
     {
-        $marvel = new MarvelMachine();
+        $marvel = new HttpComicsRepository();
         $nextWeekReleases = $marvel->getNextWeekComics();
 
         $this->assertTrue(!empty($nextWeekReleases));
@@ -18,7 +18,7 @@ class MarvelTest extends TestCase
 
     function test_next_weeeks_first_commic_title_is_correct()
     {
-        $marvel = new MarvelMachine();
+        $marvel = new HttpComicsRepository();
         $comics = $marvel->getNextWeekComics();
         $firstComic = $comics[0];
         $this->assertEquals('All-New Invaders (2014) #11', $firstComic->getTitle());
@@ -26,7 +26,7 @@ class MarvelTest extends TestCase
 
     function test_next_weeeks_first_commic_thumbnailUrl_is_correct()
     {
-        $marvel = new MarvelMachine();
+        $marvel = new HttpComicsRepository();
         $comics = $marvel->getNextWeekComics();
         /** @var Comic */
         $firstComic = $comics[0];
@@ -35,7 +35,7 @@ class MarvelTest extends TestCase
 
     function test_next_weeeks_first_commic_price_is_correct()
     {
-        $marvel = new MarvelMachine();
+        $marvel = new HttpComicsRepository();
         $comics = $marvel->getNextWeekComics();
         /** @var Comic $firstComic*/
         $firstComic = $comics[0];

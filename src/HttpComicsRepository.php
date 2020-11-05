@@ -3,7 +3,7 @@ namespace Marvel;
 
 use GuzzleHttp\Client;
 
-class MarvelMachine
+class HttpComicsRepository
 {
     /**
      * @var array
