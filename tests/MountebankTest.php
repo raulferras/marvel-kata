@@ -22,6 +22,7 @@ class MountebankTest extends TestCase
 {
     "port": "3016",
     "protocol": "http",
+    "recordRequests": "true",
     "name": "origin",
     "defaultResponse": {
         "statusCode": 404,
@@ -66,11 +67,10 @@ class MountebankTest extends TestCase
     /** @test */
     public function works()
     {
-        $response = $this->mountebankManagementClient->request('POST', "http://mountebank:3016/emails");
+        $response = $this->mountebankManagementClient->request('POST', "http://mountebank:3016/emails", [RequestOptions::JSON => ['var'=> 2]]);
 
         $output = $response->getBody()->getContents();
-        echo "OUTPUT:" . $output . "\n";
-        echo json_encode($this->shouldHaveBeenCalled(3016));
+        $this->shouldHaveBeenCalled(3016);
     }
 
     protected function shouldHaveBeenCalled($port)
@@ -85,7 +85,12 @@ class MountebankTest extends TestCase
             ]);
 
         $output = $response->getBody()->getContents();
-        var_dump($output);
+        $output = json_decode($output, true);
+
+        var_dump($output['requests']);
+        $request = $output['requests'][0];
+        self::assertEquals('/emails', $request['path'], 'No requests made to expected path. Instead: '. $request['path']);
+        self::assertEquals('{"var":1}', $request['body'], 'Unexpected body. Instead: '. $request['body']);
 
         return $output;
     }
