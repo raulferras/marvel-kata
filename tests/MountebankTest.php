@@ -113,12 +113,18 @@ class MountebankTest extends TestCase
     /** @test */
     public function works()
     {
-        $client = new Client([
-            'defaults' => ['verify' => false],
-            'base_uri' => 'http://mountebank:80',  // <-- base_uri instead of base_url
-        ]);
-        $response = $client->post('/emails', ['verify' => false]);
+        $ch = curl_init("http://mountebank:80/emails");
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLINFO_HEADER_OUT, true);
+        curl_setopt($ch, CURLOPT_POST, true);
+        curl_setopt($ch, CURLOPT_POSTFIELDS, []);
 
-        $this->assertEquals('{"status":"success"}', $response->getBody()->getContents());
+        $output = curl_exec($ch);
+        if(curl_error($ch)) {
+            self::fail('MEc');
+        }
+
+        echo "OUTPUT:".$output;
+        curl_close($ch);
     }
 }
