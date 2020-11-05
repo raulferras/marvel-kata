@@ -6,3 +6,9 @@ services:
         context: ./
     volumes:
       - ".:/app:cached"
+  mountebank:
+    image: andyrbell/mountebank
+    ports:
+      - '2525:2525'
+      - '3014:3014'
+    command: 'mb start'

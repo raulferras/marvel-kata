@@ -11,11 +11,13 @@ class HttpComicsRepository
     private $response;
     /** @var  array */
     private $comics;
+    private string $timestamp;
 
-    public function __construct()
+    public function __construct(string $timestamp)
     {
         $this->response = array();
         $this->comics = array();
+        $this->timestamp = $timestamp;
     }
 
     public function getNextWeekComics()
@@ -26,7 +28,7 @@ class HttpComicsRepository
         $comics = $this->response->data->results;
         foreach($comics as $comicStdObject){
             $comic = new Comic($comicStdObject);
-            array_push($this->comics, $comic);
+            $this->comics[] = $comic;
         }
         return $this->comics;
     }
@@ -35,10 +37,10 @@ class HttpComicsRepository
     {
         $publicKey = '97f295907072a970c5df30d73d1f3816';
         $privateKey = 'ed54a875c0dffad1fa6af84e66ff104434a1c6cc';
-        $timestamp = time();
-        $hash = md5($timestamp . $privateKey . $publicKey);
+        $hash = md5($this->timestamp . $privateKey . $publicKey);
 
-        $url = 'http://gateway.marvel.com:80/v1/public/comics?dateDescriptor=nextWeek&ts=' . $timestamp . '&apikey=' . $publicKey . '&hash=' . $hash;
+        $url = 'http://gateway.marvel.com:80/v1/public/comics?dateDescriptor=nextWeek&ts='
+            . $this->timestamp . '&apikey=' . $publicKey . '&hash=' . $hash;
 
         $client = new Client();
         $response = $client->get($url);
