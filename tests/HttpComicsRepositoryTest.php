@@ -10,10 +10,12 @@ use PHPUnit\Framework\TestCase;
 
 class HttpComicsRepositoryTest extends TestCase
 {
+    private $mbnHost;
+
     function setUp(): void
     {
-        $mbnHost = 'http://mountebank:2525';
-        $this->configureNextWeekComics($mbnHost);
+        $this->mbnHost = 'http://mountebank:2525';
+        $this->configureNextWeekComics($this->mbnHost);
     }
 
     function test_I_get_something_as_response()
@@ -21,7 +23,7 @@ class HttpComicsRepositoryTest extends TestCase
         $marvel = $this->getHttpComicsRepository();
         $nextWeekReleases = $marvel->getNextWeekComics();
 
-        $this->assertTrue(!empty($nextWeekReleases));
+        self::assertTrue(!empty($nextWeekReleases));
     }
 
     function test_next_weeeks_first_commic_title_is_correct()
@@ -29,7 +31,13 @@ class HttpComicsRepositoryTest extends TestCase
         $marvel = $this->getHttpComicsRepository();
         $comics = $marvel->getNextWeekComics();
         $firstComic = $comics[0];
-        $this->assertEquals('All-New Invaders (2014) #11', $firstComic->getTitle());
+        self::assertEquals('All-New Invaders (2014) #11', $firstComic->getTitle());
+        $this->assertRequestHasBeenMade('/v1/public/comics', [
+            "dateDescriptor" => "nextWeek",
+            "ts" => "1234567",
+            "apikey" => "97f295907072a970c5df30d73d1f3816",
+            "hash" => "292c2817662f28e5cccaed44841169b5"
+        ]);
     }
 
     function test_next_weeeks_first_commic_thumbnailUrl_is_correct()
@@ -38,8 +46,14 @@ class HttpComicsRepositoryTest extends TestCase
         $comics = $marvel->getNextWeekComics();
         /** @var Comic */
         $firstComic = $comics[0];
-        $this->assertEquals('http://i.annihil.us/u/prod/marvel/i/mg/7/20/543830ee97be9',
+        self::assertEquals('http://i.annihil.us/u/prod/marvel/i/mg/7/20/543830ee97be9',
             $firstComic->getThumbnailUrl());
+        $this->assertRequestHasBeenMade('/v1/public/comics', [
+            "dateDescriptor" => "nextWeek",
+            "ts" => "1234567",
+            "apikey" => "97f295907072a970c5df30d73d1f3816",
+            "hash" => "292c2817662f28e5cccaed44841169b5"
+        ]);
     }
 
     function test_next_weeeks_first_commic_price_is_correct()
@@ -48,7 +62,13 @@ class HttpComicsRepositoryTest extends TestCase
         $comics = $marvel->getNextWeekComics();
         /** @var Comic $firstComic */
         $firstComic = $comics[0];
-        $this->assertEquals(3.99, $firstComic->getPrice());
+        self::assertEquals(3.99, $firstComic->getPrice());
+        $this->assertRequestHasBeenMade('/v1/public/comics', [
+            "dateDescriptor" => "nextWeek",
+            "ts" => "1234567",
+            "apikey" => "97f295907072a970c5df30d73d1f3816",
+            "hash" => "292c2817662f28e5cccaed44841169b5"
+        ]);
     }
 
     private function getHttpComicsRepository(): HttpComicsRepository
@@ -113,5 +133,27 @@ class HttpComicsRepositoryTest extends TestCase
             ]);
     }
 
+    protected function assertRequestHasBeenMade($expectedPath, $expectedQueryParams = [])
+    {
+        $mountebankManagementClient = new Client();
+        $response = $mountebankManagementClient->request('GET',
+            $this->mbnHost . '/imposters/3016',
+            [
+                RequestOptions::HEADERS => [
+                    'Content-Type' => 'application/json',
+                    'Accept' => 'application/json'
+                ],
+            ]);
 
+        $output = $response->getBody()->getContents();
+        $output = json_decode($output, true);
+
+        $firstRequestMadeInThisImposter = 0;
+        $request = $output['requests'][$firstRequestMadeInThisImposter];
+        self::assertCount(1, $output['requests']);
+        self::assertEquals($expectedPath, $request['path'], 'No requests made to expected path. Instead: '. $request['path']);
+        self::assertEquals($expectedQueryParams, $request['query'], 'Unexpected body. Instead: '. $request['query']);
+
+        return $output;
+    }
 }
