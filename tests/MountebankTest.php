@@ -11,9 +11,14 @@ class MountebankTest extends TestCase
     const HTTP_MOUNTEBANK_2525 = 'http://mountebank:2525';
     /** @var Client */
     private Client $mountebankManagementClient;
+    private $host;
 
     protected function setUp(): void
     {
+        $dotenv = \Dotenv\Dotenv::createImmutable(dirname(__DIR__));
+        $dotenv->load();
+        $this->host = $_ENV['API_HOST'];
+
         $this->mountebankManagementClient = new Client();
 
         $this->mountebankManagementClient->request('DELETE', self::HTTP_MOUNTEBANK_2525.'/imposters/3016');
@@ -67,7 +72,7 @@ class MountebankTest extends TestCase
     /** @test */
     public function works()
     {
-        $response = $this->mountebankManagementClient->request('POST', "http://mountebank:3016/emails", [RequestOptions::JSON => ['var'=> 2]]);
+        $response = $this->mountebankManagementClient->request('POST', $this->host."/emails", [RequestOptions::JSON => ['var'=> 2]]);
 
         $output = $response->getBody()->getContents();
         $this->shouldHaveBeenCalled(3016);
