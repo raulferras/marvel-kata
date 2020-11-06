@@ -72,7 +72,7 @@ class MountebankTest extends TestCase
     /** @test */
     public function works()
     {
-        $response = $this->mountebankManagementClient->request('POST', $this->host."/emails", [RequestOptions::JSON => ['var'=> 2]]);
+        $response = $this->mountebankManagementClient->request('POST', $this->host."/emails", [RequestOptions::JSON => ['var'=> 1]]);
 
         $output = $response->getBody()->getContents();
         $this->shouldHaveBeenCalled(3016);

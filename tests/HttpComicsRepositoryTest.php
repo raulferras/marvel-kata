@@ -10,9 +10,6 @@ use PHPUnit\Framework\TestCase;
 
 class HttpComicsRepositoryTest extends TestCase
 {
-    /** @var Client */
-//    private Client $mountebankManagementClient;
-
     function setUp(): void
     {
         $mbnHost = 'http://mountebank:2525';
