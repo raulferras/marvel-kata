@@ -92,7 +92,6 @@ class MountebankTest extends TestCase
         $output = $response->getBody()->getContents();
         $output = json_decode($output, true);
 
-        var_dump($output['requests']);
         $request = $output['requests'][0];
         self::assertEquals('/emails', $request['path'], 'No requests made to expected path. Instead: '. $request['path']);
         self::assertEquals('{"var":1}', $request['body'], 'Unexpected body. Instead: '. $request['body']);

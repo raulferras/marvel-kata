@@ -5,7 +5,6 @@ use GuzzleHttp\Client;
 
 class HttpComicsRepository
 {
-//    const GATEWAY_MARVEL_COM_80 = 'mountebank:3016';
     private $GATEWAY_MARVEL_COM_80 = 'gateway.marvel.com:80';
 
     /**
@@ -30,8 +29,6 @@ class HttpComicsRepository
     public function getNextWeekComics()
     {
         $this->response = $this->makeRequest();
-//        $this->response = $this->makeRequestTest();
-        var_dump($this->response);
 
         $comics = $this->response->data->results;
         foreach($comics as $comicStdObject){
